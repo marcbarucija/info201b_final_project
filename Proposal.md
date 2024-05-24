@@ -4,6 +4,9 @@
   1pt - Successfully creates repository and adds all group members to the repo
   1pt - Uses well formatted markdown throughout this document (headers for each section, lists where appropriate, hyperlinked words, etc.)
 
+The link below is the dataset that I will be using to complete my final project.
+[US Police Shootings Dataset](https://www.kaggle.com/datasets/ahsen1330/us-police-shootings/data)
+
 ## 2) Abstract, Keywords, Introduction - 8 pts
   Clearly describes final project, significance, and articulates 3-5 research questions. Also includes abstract and keywords:
 
